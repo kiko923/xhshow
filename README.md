@@ -6,6 +6,8 @@
 </div>
 
 ---
+250708版本xs算法请查看 [#41](https://github.com/Cloxl/xhshow/issues/41)
+
 # 小红书加密参数说明
 
 ## 加密方式
