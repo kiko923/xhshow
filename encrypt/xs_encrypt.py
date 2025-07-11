@@ -76,7 +76,7 @@ class XsEncrypt:
         obj = {
             "signSvn": "56",
             "signType": "x2",
-            "appID": platform,
+            "appId": platform,
             "signVersion": "1",
             "payload": await XsEncrypt.base64_to_hex(payload)
         }
